@@ -18,18 +18,3 @@ del_fruta()
 
 for x in lista: 
     print(f"Esta fruta está na lista {x}")
-
-
-
-    for fruta in lista:
-    print (f"Os elementos contidos na lista são: {fruta}")
-
-lista = ['banana' , 'maça' , 'pera' , 'banana']
-tupla = (1,2,3,4,5,)
-meu_set = {1,2,3,4}
-dicionario = {"nome": "caique", "idade": 22}
- 
-
-
-
-
